@@ -58,7 +58,7 @@ My goal is to learn and grow in an innovative environment where modern technolog
 
 ## 🌐 Kontakt & Links
 
-- 🔗 [LinkedIn-Profil](https://linkedin.com/in/yaelsolan)
+- 🔗 [LinkedIn-Profil](https://linkedin.com/in/yael-solan-16800a360)
 - 🌍 [Portfolio](https://yaelsolan.github.io)
 - 📬 yael.solan@proton.me
 
