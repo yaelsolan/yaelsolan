@@ -49,17 +49,18 @@ My goal is to learn and grow in an innovative environment where modern technolog
 | Projekt | Beschreibung 🇩🇪 | Description 🇬🇧 |
 |--------|------------------|----------------|
 | [📇 Kontaktverwaltung](https://github.com/yaelsolan/kontaktverwaltung) | Tool zur Verwaltung von Kontakten in der Konsole mit Datei-Speicherung und Update-Funktion | Console-based contact management tool with file saving and update function |
-
-> Weitere Projekte sind in Arbeit – z. B. Datenanalyse, KI-Chatbot, Portfolio-Website  
-> More projects in progress – such as data analysis, AI chatbot, portfolio website
+| [📄 Mietvertrag PDF Analyse](https://github.com/yaelsolan/mietvertrag-pdf-analyse) | PDF-Analyse mit KI: Mietverträge lesen, strukturieren & zusammenfassen | AI-based PDF contract parser with extraction and summarization |
+| [📊 Datenanalyse](https://github.com/yaelsolan/datenanalyse) | Erweiterte Datenanalyse mit Pandas und Matplotlib | Exploratory data analysis using Python, Pandas and Matplotlib |
+| [🏡 Hauspreis Vorhersage](https://github.com/yaelsolan/hauspreis-vorhersage) | Vorhersage von Immobilienpreisen mit Machine Learning | Real estate price prediction using machine learning |
+| [🤖 KI-Chatbot](https://github.com/yaelsolan/ki-chatbot) | Einfacher KI-Chatbot mit OpenAI API & lokaler Demo | Simple AI chatbot using OpenAI API with offline demo |
 
 ---
 
 ## 🌐 Kontakt & Links
 
 - 🔗 [LinkedIn-Profil](https://linkedin.com/in/yaelsolan)
-- 🌍 [Portfolio (in Arbeit)](https://yaelsolan.dev)
-- 📬 yaelsolan5@gmail.com
+- 🌍 [Portfolio](https://yaelsolan.github.io)
+- 📬 yael.solan@proton.me
 
 ---
 
