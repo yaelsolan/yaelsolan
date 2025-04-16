@@ -53,6 +53,7 @@ My goal is to learn and grow in an innovative environment where modern technolog
 | [📊 Datenanalyse](https://github.com/yaelsolan/datenanalyse) | Erweiterte Datenanalyse mit Pandas und Matplotlib | Exploratory data analysis using Python, Pandas and Matplotlib |
 | [🏡 Hauspreis Vorhersage](https://github.com/yaelsolan/hauspreis-vorhersage) | Vorhersage von Immobilienpreisen mit Machine Learning | Real estate price prediction using machine learning |
 | [🤖 KI-Chatbot](https://github.com/yaelsolan/ki-chatbot) | Einfacher KI-Chatbot mit OpenAI API & lokaler Demo | Simple AI chatbot using OpenAI API with offline demo |
+| [📡 Sensoranalyse](https://github.com/yaelsolan/sensor-analyse-schulprojekt) | Analyse von Sensordaten & Erkennung von Anomalien mit Pandas & Matplotlib | Sensor data analysis &
 
 ---
 
