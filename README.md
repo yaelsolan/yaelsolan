@@ -48,12 +48,13 @@ My goal is to learn and grow in an innovative environment where modern technolog
 
 | Projekt | Beschreibung 🇩🇪 | Description 🇬🇧 |
 |--------|------------------|----------------|
+| [📞 Telefonservice Analyse](https://github.com/yaelsolan/telefonservice-analyse) | Automatisierte Analyse von Kundenanfragen & Antwortvorschläge mit NLP (Textklassifikation & Stimmungserkennung) | NLP-based classification & response generation for customer service inquiries (text analysis & sentiment detection) |
 | [📇 Kontaktverwaltung](https://github.com/yaelsolan/kontaktverwaltung) | Tool zur Verwaltung von Kontakten in der Konsole mit Datei-Speicherung und Update-Funktion | Console-based contact management tool with file saving and update function |
 | [📄 Mietvertrag PDF Analyse](https://github.com/yaelsolan/mietvertrag-pdf-analyse) | PDF-Analyse mit KI: Mietverträge lesen, strukturieren & zusammenfassen | AI-based PDF contract parser with extraction and summarization |
 | [📊 Datenanalyse](https://github.com/yaelsolan/datenanalyse) | Erweiterte Datenanalyse mit Pandas und Matplotlib | Exploratory data analysis using Python, Pandas and Matplotlib |
 | [🏡 Hauspreis Vorhersage](https://github.com/yaelsolan/hauspreis-vorhersage) | Vorhersage von Immobilienpreisen mit Machine Learning | Real estate price prediction using machine learning |
 | [🤖 KI-Chatbot](https://github.com/yaelsolan/ki-chatbot) | Einfacher KI-Chatbot mit OpenAI API & lokaler Demo | Simple AI chatbot using OpenAI API with offline demo |
-| [📡 Sensoranalyse](https://github.com/yaelsolan/sensor-analyse-schulprojekt) | Analyse von Sensordaten & Erkennung von Anomalien mit Pandas & Matplotlib | Sensor data analysis &
+| [📡 Sensoranalyse](https://github.com/yaelsolan/sensor-analyse-schulprojekt) | Analyse von Sensordaten & Erkennung von Anomalien mit Pandas & Matplotlib | Sensor data analysis & anomaly detection using Pandas and Matplotlib |
 
 ---
 
