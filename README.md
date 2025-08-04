@@ -1,72 +1,23 @@
 # 👩‍💻 Yael Solan
 
-## 💡 Über mich 🇩🇪
-Hallo! Ich bin Yael – eine motivierte Quereinsteigerin im Bereich IT mit akademischem Hintergrund.  
-Ich entdecke meine Leidenschaft für Programmierung, Künstliche Intelligenz und datengestützte Lösungen.
+## 💼 Über mich 🇩🇪  
+Ich bin Yael – eine engagierte IT-Fachkraft mit Erfahrung im technischen Support, Systemadministration und digitaler Kundenbetreuung.  
+Ich lebe in Deutschland, spreche fließend Deutsch (telc B2 Zertifikat) und besuche aktuell einen C1-Kurs. Ich verfüge über einen akademischen Hintergrund sowie fundierte praktische Kenntnisse in der IT.  
 
-Mein Ziel ist es, in einem innovativen Umfeld zu lernen und zu arbeiten, in dem moderne Technologien wie Python, KI und Automatisierung zum Einsatz kommen.
+Durch meine bisherigen Tätigkeiten in internationalen Unternehmen konnte ich vielseitige IT-Prozesse kennenlernen und eigene Automatisierungslösungen umsetzen.  
+Ich arbeite gern strukturiert, lösungsorientiert und bin motiviert, mich kontinuierlich weiterzuentwickeln – insbesondere im Bereich Software, Service & Support.  
 
----
+## 💼 About me 🇬🇧  
+I'm Yael – a dedicated IT professional with hands-on experience in technical support, system administration, and digital customer service.  
+I live in Germany, speak fluent German (telc B2 certificate) and am currently enrolled in a C1 course. I bring both an academic background and practical skills in the IT field.  
 
-## 💡 About me 🇬🇧
-Hi! I'm Yael – a motivated career-changer in the field of IT, with an academic background.  
-I'm discovering my passion for programming, artificial intelligence, and data-driven solutions.
+In previous roles at international companies, I gained insight into diverse IT workflows and developed custom automation tools.  
+I enjoy working in a structured and solution-driven way and am motivated to grow further – especially in software, service, and support roles.
 
-My goal is to learn and grow in an innovative environment where modern technologies like Python, AI, and automation are used to solve real-world problems.
-
----
-
-## 🚀 Aktuelle Schwerpunkte 🇩🇪
-- 📌 **Python** – Grundlagen, Datenstrukturen, Funktionen, Projekte
-- 📌 **Künstliche Intelligenz** – Einstieg in generative Modelle & Prompt Engineering
-- 📌 **Dateiverarbeitung** – Lesen, Schreiben und Automatisierung
-- 📌 **Git & GitHub** – Projektverwaltung und Open-Source-Beiträge
-- 📌 **Webentwicklung (Basics)** – HTML, CSS, JavaScript
-- 📌 **Dokumentation auf Deutsch** – zur Vorbereitung auf den deutschen Arbeitsmarkt
-
----
-
-## 🚀 Current focus areas 🇬🇧
-- 📌 **Python** – Basics, data structures, functions, small projects
-- 📌 **Artificial Intelligence** – Introduction to generative models & prompt engineering
-- 📌 **File handling** – Reading, writing, and automation
-- 📌 **Git & GitHub** – Project management and open-source contributions
-- 📌 **Web development (Basics)** – HTML, CSS, JavaScript
-- 📌 **Documentation in German** – As preparation for the German tech job market
-
----
-
-## 🎓 Sprachkenntnisse / Language Skills
-
-- 🇩🇪 Deutsch – B2 (telc-Prüfung im Mai 2025), C1-Kurs ab Juni geplant  
-- 🇬🇧 Englisch – C1  
-- 🇮🇱 Hebräisch – Muttersprache / Native speaker
-
----
-
-## 📁 Projekte / Projects
-
-| Projekt | Beschreibung 🇩🇪 | Description 🇬🇧 |
-|--------|------------------|----------------|
-| [📞 Telefonservice Analyse](https://github.com/yaelsolan/telefonservice-analyse) | Automatisierte Analyse von Kundenanfragen & Antwortvorschläge mit NLP (Textklassifikation & Stimmungserkennung) | NLP-based classification & response generation for customer service inquiries (text analysis & sentiment detection) |
-| [📇 Kontaktverwaltung](https://github.com/yaelsolan/kontaktverwaltung) | Tool zur Verwaltung von Kontakten in der Konsole mit Datei-Speicherung und Update-Funktion | Console-based contact management tool with file saving and update function |
-| [📄 Mietvertrag PDF Analyse](https://github.com/yaelsolan/mietvertrag-pdf-analyse) | PDF-Analyse mit KI: Mietverträge lesen, strukturieren & zusammenfassen | AI-based PDF contract parser with extraction and summarization |
-| [📊 Datenanalyse](https://github.com/yaelsolan/datenanalyse) | Erweiterte Datenanalyse mit Pandas und Matplotlib | Exploratory data analysis using Python, Pandas and Matplotlib |
-| [🏡 Hauspreis Vorhersage](https://github.com/yaelsolan/hauspreis-vorhersage) | Vorhersage von Immobilienpreisen mit Machine Learning | Real estate price prediction using machine learning |
-| [🤖 KI-Chatbot](https://github.com/yaelsolan/ki-chatbot) | Einfacher KI-Chatbot mit OpenAI API & lokaler Demo | Simple AI chatbot using OpenAI API with offline demo |
-| [📡 Sensoranalyse](https://github.com/yaelsolan/sensor-analyse-schulprojekt) | Analyse von Sensordaten & Erkennung von Anomalien mit Pandas & Matplotlib | Sensor data analysis & anomaly detection using Pandas and Matplotlib |
-
----
-
-## 🌐 Kontakt & Links
-
-- 🔗 [LinkedIn-Profil](https://linkedin.com/in/yaelsolan)
-- 🌍 [Portfolio](https://yaelsolan.github.io)
-- 📬 yael.solan@proton.me
-
----
+## 📬 Kontakt & Links  
+🔗 [LinkedIn-Profil](https://www.linkedin.com/in/yaelsolan/)  
+📬 yaelsolan5@gmail.com  
+🌍 [Portfolio](https://yaelsolan.github.io)
 
 Vielen Dank fürs Vorbeischauen! 😊  
 Thanks for stopping by! 🙏  
-Ich freue mich über Feedback, Zusammenarbeit oder neue Lernmöglichkeiten im Bereich KI & Softwareentwicklung.  
-I’m happy to connect, collaborate or learn more in the field of AI & software development.
